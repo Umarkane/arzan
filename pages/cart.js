@@ -11,7 +11,7 @@ export default function Home() {
                 headerStyle={1}
                 footerStyle={1}
             >
-
+                    <div> </div>
                 <section id="cart-1" className="wide-100 cart-page division">
                     <div className="container">
                         {/* CART TABLE */}
